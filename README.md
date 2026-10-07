@@ -2,6 +2,8 @@
 
 Teste mínimo: cena Three.js + Vite publicada no GitHub Pages via GitHub Actions.
 
+**Site:** https://matheusgsd.github.io/office/
+
 ## Rodar local
 
 ```sh
